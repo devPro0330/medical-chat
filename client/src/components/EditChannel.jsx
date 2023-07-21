@@ -1,7 +1,7 @@
 import React from "react";
 
 const EditChannel = () => {
-  return <div>Edit Channel</div>;
+  return <div>EditChannel</div>;
 };
 
 export default EditChannel;
